@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-
+// React의 최상위 컴포넌트
 function App() {
   const [count, setCount] = useState(0)
 
