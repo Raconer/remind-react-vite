@@ -248,19 +248,3 @@ export default function App() {
 * 간단 팁
   * 소규모 프로젝트: React Hook Form, React Icons, Axios, React Query 추천
   * 대규모 프로젝트: Redux Toolkit, React Query, React Table, i18next 추가 고려
-
-
-
-
-
-
-
-
-
-
-
-검색
-
-이성
-
-ChatGPT는 실수를 할 수 있습니다
