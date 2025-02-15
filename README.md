@@ -136,7 +136,7 @@ function Counter() {
 ```
 
 
-3. Tailwind CSS 설치
+### 3. Tailwind CSS
 ```shell
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init
